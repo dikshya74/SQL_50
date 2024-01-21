@@ -4,4 +4,5 @@ Q1. Get the percentage of people who are no longer alive. Alias the result as pe
 
 SELECT COUNT(deathdate)*100.0/count(*) As Percentage_dead
 From people;
---change added
+--change added 
+--change added by User B from another computer!
