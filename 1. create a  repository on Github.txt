@@ -1,0 +1,20 @@
+1. create a  repository on Github
+2. Open Git Cmd
+3. Go to your local folder directory using cmd e.g, CD D: , CD Folder_Directory
+4. Go to your github again and select http code link from CODE dropdown.
+5. use git clone http:\\..... to clone the repository
+6. git add -A to add all files on the github
+7. git status
+8. git commit -a -m "comment"
+9. git push 
+
+for delete
+git status
+git commit -a -m "delete"
+git push
+
+
+changes made on repo can be seen to local repo 
+
+
+git pull 
